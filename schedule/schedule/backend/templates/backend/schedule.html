@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+{% load static %}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>Schedule</h1>
+    </header>
+    <main>
+
+            {% for day in days %}
+                <ul>
+                    {{ day }}
+                    <ul>
+                        {% for lesson in lessons %}
+                            {% if lesson.day == day %}
+                                <li>{{ lesson.order_lesson }} : {{lesson.name}} [{{ lesson.place }}] {{lesson.teacher}} </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </ul>
+            {% endfor %}
+
+    </main>
+
+</body>
+</html>
