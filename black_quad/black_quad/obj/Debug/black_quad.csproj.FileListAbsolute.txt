@@ -1,0 +1,8 @@
+C:\Users\Yakovka\Desktop\black_quad\black_quad\bin\Debug\black_quad.exe.config
+C:\Users\Yakovka\Desktop\black_quad\black_quad\bin\Debug\black_quad.exe
+C:\Users\Yakovka\Desktop\black_quad\black_quad\bin\Debug\black_quad.pdb
+C:\Users\Yakovka\Desktop\black_quad\black_quad\obj\Debug\black_quad.csproj.AssemblyReference.cache
+C:\Users\Yakovka\Desktop\black_quad\black_quad\obj\Debug\black_quad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yakovka\Desktop\black_quad\black_quad\obj\Debug\black_quad.csproj.CoreCompileInputs.cache
+C:\Users\Yakovka\Desktop\black_quad\black_quad\obj\Debug\black_quad.exe
+C:\Users\Yakovka\Desktop\black_quad\black_quad\obj\Debug\black_quad.pdb

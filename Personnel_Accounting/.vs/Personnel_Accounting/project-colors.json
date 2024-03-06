@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0a5ede1-6e87-49a1-bc71-bca28cdf46d8": {
+      "ProjectGuid": "e0a5ede1-6e87-49a1-bc71-bca28cdf46d8",
+      "DisplayName": "Personnel_Accounting",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

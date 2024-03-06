@@ -1,0 +1,16 @@
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\bin\Debug\ContactApplication.exe.config
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\bin\Debug\ContactApplication.exe
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\bin\Debug\ContactApplication.pdb
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.csproj.AssemblyReference.cache
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.AboutForm.resources
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.ContactTypeForm.resources
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.MainForm.resources
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.Properties.Resources.resources
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.csproj.GenerateResource.cache
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.exe
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.pdb
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.PersoneListForm.resources
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.PersoneEditForm.resources
+C:\Users\Yakovka\Desktop\ContactApplication\ContactApplication\obj\Debug\ContactApplication.csproj.ResolveComReference.cache

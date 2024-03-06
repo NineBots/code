@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a47b4387-80fe-4f4a-8a14-aaf3be36b52c": {
+      "ProjectGuid": "a47b4387-80fe-4f4a-8a14-aaf3be36b52c",
+      "DisplayName": "black_quad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
